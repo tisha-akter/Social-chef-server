@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1,
+    "picture": "https://radiustheme.com/demo/html/redchili/redchili/img/team/3.jpg",
+    "name": "Chef John",
+    "description": "Chef John specializes in Italian cuisine, with a mix of classic dishes and modern interpretations.",
+    "years_of_experience": 12,
+    "number_of_recipes": 75,
+    "likes": 1500
+  },
+  {
+    "id": 2,
+    "picture": "https://radiustheme.com/demo/html/redchili/redchili/img/team/2.jpg",
+    "name": "Chef Maria",
+    "description": "Chef Maria is an expert in Italian cuisine, with a focus on pasta, seafood, and meat dishes.",
+    "years_of_experience": 8,
+    "number_of_recipes": 50,
+    "likes": 1200,
+    "recipes": [
+      {
+        "recipe": "Pesto Pasta",
+        "ingredients": [
+          "1 pound spaghetti",
+          "1 cup basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup pine nuts",
+          "2 garlic cloves",
+          "1/2 cup olive oil",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta cooking water, then drain spaghetti.\n2. In a food processor, combine basil, Parmesan cheese, pine nuts, and garlic. Pulse until finely chopped.\n3. Gradually add olive oil and process until smooth. Season with salt and pepper.\n4. In a large skillet, combine cooked spaghetti, pesto sauce, and reserved pasta cooking water. Toss until well coated.\n5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipe": "Roast Chicken",
+        "ingredients": [
+          "1 whole chicken",
+          "1 lemon, halved",
+          "4 garlic cloves, minced",
+          "2 tablespoons olive oil",
+          "1 tablespoon dried thyme",
+          "1 tablespoon dried rosemary",
+          "Salt and pepper, to taste",
+          "Potatoes and carrots, chopped, for serving"
+        ],
+        "cooking_method": "1. Preheat oven to 400°F. Line a baking sheet with parchment paper.\n2. Rinse chicken and pat dry. Season generously with salt and pepper.\n3. Stuff the chicken cavity with lemon halves and garlic cloves.\n4. In a small bowl, mix together olive oil, thyme, and rosemary. Rub mixture all over chicken.\n5. Place chicken on prepared baking sheet, breast side up.\n6. Roast for 1 to 1 1/2 hours, or until chicken is cooked through and juices run clear.\n7. Let chicken rest for 10 minutes before carving.\n8. Serve with roasted potatoes and carrots.",
+        "rating": 4.9
+      },
+      {
+        "recipe": "Margherita Pizza",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "2 tablespoons chopped fresh basil",
+          "1 tablespoon olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Grease a pizza pan with olive oil.\n2. On a floured surface, roll out pizza dough into a circle. Place on prepared pizza pan.\n3. Spread tomato sauce evenly over pizza dough, leaving a 1-inch border. Top with sliced mozzarella cheese.\n4. Bake for 12-15 minutes, or until crust is golden brown and cheese is melted.\n5. Remove from oven and sprinkle with chopped fresh basil. Drizzle with olive oil.\n6. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://radiustheme.com/demo/html/redchili/redchili/img/team/1.jpg",
+    "name": "Chef Roberto",
+    "description": "Chef Roberto's Italian dishes are a mix of traditional and modern cuisine, including classic pizza and pasta dishes.",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "likes": 2000,
+    "recipes": [
+      {
+        "recipe": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 ounces pancetta, diced",
+          "4 garlic cloves, minced",
+          "4 large egg yolks",
+          "1 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta cooking water, then drain spaghetti.\n2. In a large skillet, cook pancetta over medium heat until crisp. Add garlic and cook for 1 minute. Remove from heat.\n3. In a bowl, whisk together egg yolks and Parmesan. Add reserved pasta cooking water to the pancetta mixture, then slowly whisk in egg mixture. Add spaghetti and toss until coated.\n4. Serve immediately, garnished with additional Parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 large eggs, beaten",
+          "2 cups marinara sauce"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a shallow dish, mix together breadcrumbs and Parmesan cheese. In another shallow dish, beat eggs.\n3. Dip each chicken breast in beaten eggs, then coat in breadcrumb mixture. Place on prepared baking sheet.\n4. Bake for 20-25 minutes, or until chicken is cooked through. Top with marinara sauce and additional Parmesan cheese, if desired. Bake for an additional 5-10 minutes.\n5. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe": "Margherita Pizza",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "2 tablespoons chopped fresh basil",
+          "1 tablespoon olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Grease a pizza pan with olive oil.\n2. On a floured surface, roll out pizza dough into a circle. Place on prepared pizza pan.\n3. Spread tomato sauce evenly over pizza dough, leaving a 1-inch border. Top with sliced mozzarella cheese.\n4. Bake for 12-15 minutes, or until crust is golden brown and cheese is melted.\n5. Remove from oven and sprinkle with chopped fresh basil. Drizzle with olive oil.\n6. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "http://www.veepixel.com/tf/html/sous/assets/images/author_01.jpg",
+    "name": "Chef Sarah",
+    "description": "Chef Sarah is experienced in a variety of cuisines, including Italian. Her Italian dishes include pasta, seafood, and meat dishes.",
+    "years_of_experience": 10,
+    "number_of_recipes": 60,
+    "likes": 1300,
+    "recipes": [
+      {
+        "recipe": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 ounces pancetta, diced",
+          "4 garlic cloves, minced",
+          "4 large egg yolks",
+          "1 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta cooking water, then drain spaghetti.\n2. In a large skillet, cook pancetta over medium heat until crisp. Add garlic and cook for 1 minute. Remove from heat.\n3. In a bowl, whisk together egg yolks and Parmesan. Add reserved pasta cooking water to the pancetta mixture, then slowly whisk in egg mixture. Add spaghetti and toss until coated.\n4. Serve immediately, garnished with additional Parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 large eggs, beaten",
+          "2 cups marinara sauce"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a shallow dish, mix together breadcrumbs and Parmesan cheese. In another shallow dish, beat eggs.\n3. Dip each chicken breast in beaten eggs, then coat in breadcrumb mixture. Place on prepared baking sheet.\n4. Bake for 20-25 minutes, or until chicken is cooked through. Top with marinara sauce and additional Parmesan cheese, if desired. Bake for an additional 5-10 minutes.\n5. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe": "Margherita Pizza",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "2 tablespoons chopped fresh basil",
+          "1 tablespoon olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Grease a pizza pan with olive oil.\n2. On a floured surface, roll out pizza dough into a circle. Place on prepared pizza pan.\n3. Spread tomato sauce evenly over pizza dough, leaving a 1-inch border. Top with sliced mozzarella cheese.\n4. Bake for 12-15 minutes, or until crust is golden brown and cheese is melted.\n5. Remove from oven and sprinkle with chopped fresh basil. Drizzle with olive oil.\n6. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "http://www.veepixel.com/tf/html/sous/assets/images/author_02.jpg",
+    "name": "Chef Alex",
+    "description": "Chef Alex's Italian dishes are modern interpretations of classic Italian cuisine, including pasta and meat dishes.",
+    "years_of_experience": 5,
+    "number_of_recipes": 25,
+    "likes": 800,
+    "recipes": [
+      {
+        "recipe": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 ounces pancetta, diced",
+          "4 garlic cloves, minced",
+          "4 large egg yolks",
+          "1 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta cooking water, then drain spaghetti.\n2. In a large skillet, cook pancetta over medium heat until crisp. Add garlic and cook for 1 minute. Remove from heat.\n3. In a bowl, whisk together egg yolks and Parmesan. Add reserved pasta cooking water to the pancetta mixture, then slowly whisk in egg mixture. Add spaghetti and toss until coated.\n4. Serve immediately, garnished with additional Parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 large eggs, beaten",
+          "2 cups marinara sauce"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a shallow dish, mix together breadcrumbs and Parmesan cheese. In another shallow dish, beat eggs.\n3. Dip each chicken breast in beaten eggs, then coat in breadcrumb mixture. Place on prepared baking sheet.\n4. Bake for 20-25 minutes, or until chicken is cooked through. Top with marinara sauce and additional Parmesan cheese, if desired. Bake for an additional 5-10 minutes.\n5. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe": "Margherita Pizza",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "2 tablespoons chopped fresh basil",
+          "1 tablespoon olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Grease a pizza pan with olive oil.\n2. On a floured surface, roll out pizza dough into a circle. Place on prepared pizza pan.\n3. Spread tomato sauce evenly over pizza dough, leaving a 1-inch border. Top with sliced mozzarella cheese.\n4. Bake for 12-15 minutes, or until crust is golden brown and cheese is melted.\n5. Remove from oven and sprinkle with chopped fresh basil. Drizzle with olive oil.\n6. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "http://www.veepixel.com/tf/html/sous/assets/images/author_03.jpg",
+    "name": "Chef Emily",
+    "description": "Chef Emily's Italian dishes are a mix of traditional and modern cuisine, including pasta and meat dishes.",
+    "years_of_experience": 3,
+    "number_of_recipes": 20,
+    "likes": 500,
+    "recipes": [
+      {
+        "recipe": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 ounces pancetta, diced",
+          "4 garlic cloves, minced",
+          "4 large egg yolks",
+          "1 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta cooking water, then drain spaghetti.\n2. In a large skillet, cook pancetta over medium heat until crisp. Add garlic and cook for 1 minute. Remove from heat.\n3. In a bowl, whisk together egg yolks and Parmesan. Add reserved pasta cooking water to the pancetta mixture, then slowly whisk in egg mixture. Add spaghetti and toss until coated.\n4. Serve immediately, garnished with additional Parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "recipe": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "2 large eggs, beaten",
+          "2 cups marinara sauce"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a shallow dish, mix together breadcrumbs and Parmesan cheese. In another shallow dish, beat eggs.\n3. Dip each chicken breast in beaten eggs, then coat in breadcrumb mixture. Place on prepared baking sheet.\n4. Bake for 20-25 minutes, or until chicken is cooked through. Top with marinara sauce and additional Parmesan cheese, if desired. Bake for an additional 5-10 minutes.\n5. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe": "Margherita Pizza",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup tomato sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "2 tablespoons chopped fresh basil",
+          "1 tablespoon olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. Grease a pizza pan with olive oil.\n2. On a floured surface, roll out pizza dough into a circle. Place on prepared pizza pan.\n3. Spread tomato sauce evenly over pizza dough, leaving a 1-inch border. Top with sliced mozzarella cheese.\n4. Bake for 12-15 minutes, or until crust is golden brown and cheese is melted.\n5. Remove from oven and sprinkle with chopped fresh basil. Drizzle with olive oil.\n6. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  }
+]
