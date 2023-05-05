@@ -6,7 +6,7 @@
     "description": "Chef John specializes in Italian cuisine, with a mix of classic dishes and modern interpretations.",
     "years_of_experience": 12,
     "number_of_recipes": 75,
-    "likes": 1500,
+    "likes": 900,
     "recipes": [
       {
         "recipe": "Spaghetti Carbonara",
@@ -56,7 +56,7 @@
     "description": "Chef Maria is an expert in Italian cuisine, with a focus on pasta, seafood, and meat dishes.",
     "years_of_experience": 8,
     "number_of_recipes": 50,
-    "likes": 1200,
+    "likes": 960,
     "recipes": [
       {
         "recipe": "Pesto Pasta",
@@ -111,7 +111,7 @@
     "description": "Chef Roberto's Italian dishes are a mix of traditional and modern cuisine, including classic pizza and pasta dishes.",
     "years_of_experience": 15,
     "number_of_recipes": 100,
-    "likes": 2000,
+    "likes": 700,
     "recipes": [
       {
         "recipe": "Spaghetti Carbonara",
@@ -161,7 +161,7 @@
     "description": "Chef Sarah is experienced in a variety of cuisines, including Italian. Her Italian dishes include pasta, seafood, and meat dishes.",
     "years_of_experience": 10,
     "number_of_recipes": 60,
-    "likes": 1300,
+    "likes": 990,
     "recipes": [
       {
         "recipe": "Spaghetti Carbonara",
@@ -211,7 +211,7 @@
     "description": "Chef Alex's Italian dishes are modern interpretations of classic Italian cuisine, including pasta and meat dishes.",
     "years_of_experience": 5,
     "number_of_recipes": 25,
-    "likes": 800,
+    "likes": 870,
     "recipes": [
       {
         "recipe": "Spaghetti Carbonara",
@@ -261,7 +261,7 @@
     "description": "Chef Emily's Italian dishes are a mix of traditional and modern cuisine, including pasta and meat dishes.",
     "years_of_experience": 3,
     "number_of_recipes": 20,
-    "likes": 500,
+    "likes": 509,
     "recipes": [
       {
         "recipe": "Spaghetti Carbonara",
