@@ -5,7 +5,7 @@
         "name": "Chef John",
         "years_of_experience": 4,
         "number_of_recipes": 8,
-        "likes": 1500
+        "likes": 900
       },
       {
         "id": 2,
@@ -13,7 +13,7 @@
         "name": "Chef Maria",
         "years_of_experience": 8,
         "number_of_recipes": 10,
-        "likes": 1200
+        "likes": 960
       },
       {
         "id": 3,
@@ -21,7 +21,7 @@
         "name": "Chef Roberto",
         "years_of_experience": 2,
         "number_of_recipes": 6,
-        "likes": 2000
+        "likes": 700
       },
       {
         "id": 4,
@@ -29,7 +29,7 @@
         "name": "Chef Sarah",
         "years_of_experience": 3,
         "number_of_recipes": 4,
-        "likes": 1300
+        "likes": 990
       },
       {
         "id": 5,
@@ -37,7 +37,7 @@
         "name": "Chef Alex",
         "years_of_experience": 5,
         "number_of_recipes": 8,
-        "likes": 800
+        "likes": 870
       },
       {
         "id": 6,
@@ -45,7 +45,7 @@
         "name": "Chef Emily",
         "years_of_experience": 3,
         "number_of_recipes": 10,
-        "likes": 500
+        "likes": 509
       }
     ]
 
